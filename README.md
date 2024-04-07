@@ -20,7 +20,7 @@
 ## Introduction
 *The SRU Solar Water Heating Systems capstone project aims to capitalize on the growing demand for energy-efficient and environmentally friendly heating solutions. With a focus on innovation and user-friendly design, SRU seeks to revolutionize the solar water heating market by introducing advanced features and functions in their new product line.*
 
-## Product Development
+[## Product Development] (https://github.com/Akudal/IBM_Product_Manager_Capstone/blob/main/Beta%20Plan.pdf)
 *Details of SRU's product development process, including the proposed product concept, vision, and features of the new solar water heating systems, are outlined in this section. It covers technical specifications, design considerations, and differentiation factors compared to competitors.*
 
 ## User Stories and Product Backlog
